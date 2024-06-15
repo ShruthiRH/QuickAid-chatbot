@@ -1,0 +1,539 @@
+{
+    "scenarios": [
+        {
+            "scenario_id": 1,
+            "scenario_name": "Cardiac Arrest",
+            "symptoms & causes": [
+                "Sudden collapse",
+                "No pulse",
+                "No breathing",
+                "Loss of consciousness",
+                "Shortness of breath",
+                "Chest discomfort",
+                "Weakness",
+                "Palpitations"
+            ],
+            "detailed_steps": [
+                {
+                    "step_number": 1,
+                    "step_description": "Call 911 or local emergency services."
+                },
+                {
+                    "step_number": 2,
+                    "step_description": "Perform CPR"
+                },
+                {
+                    "step_number": 3,
+                    "step_description": "Push hard and fast on the person's chest"
+                },
+                {
+                    "step_number": 4,
+                    "step_description": "100 to 120 pushes a minute"
+                },
+                {
+                    "step_number": 5,
+                    "step_description": "Deliver rescue breaths after every 30 compressions."
+                },
+                {
+                    "step_number": 6,
+                    "step_description": "Allow the chest to rise completely between compressions."
+                },
+                {
+                    "step_number": 7,
+                    "step_description": "Keep doing this until an AED is available or emergency workers arrive."
+                }
+            ]
+        },
+        {
+            "scenario_id": 2,
+            "scenario_name": "Stroke",
+            "symptoms & causes": [
+                "One-sided weakness or paralysis.",
+                "Aphasia (difficulty with or loss of speaking ability).",
+                "Slurred or garbled speaking (dysarthria).",
+                "Loss of muscle control on one side of your face.",
+                "Sudden loss \u00e2\u20ac\u201d either partial or total \u00e2\u20ac\u201d of one or more senses (vision, hearing, smell, taste and touch).",
+                "Blurred or double vision (diplopia).",
+                "Loss of coordination or clumsiness (ataxia).",
+                "Dizziness or vertigo.",
+                "Nausea and vomiting.",
+                "Neck stiffness.",
+                "Emotional instability and personality changes.",
+                "Confusion or agitation.",
+                "Seizures.",
+                "Memory loss (amnesia).",
+                "Headaches (usually sudden and severe).",
+                "Passing out or fainting.",
+                "Coma."
+            ],
+            "detailed_steps": [
+                {
+                    "step_number": 1,
+                    "step_description": "Call 911 or local emergency services."
+                },
+                {
+                    "step_number": 2,
+                    "step_description": "Write down the time"
+                },
+                {
+                    "step_number": 3,
+                    "step_description": "Keep stroke victims on their side with the head slightly elevated to promote blood flow."
+                },
+                {
+                    "step_number": 4,
+                    "step_description": "Loosen any restrictive clothing"
+                },
+                {
+                    "step_number": 5,
+                    "step_description": "Check for pulse and breathing."
+                },
+                {
+                    "step_number": 6,
+                    "step_description": "If there is no pulse, begin CPR immediately."
+                },
+                {
+                    "step_number": 7,
+                    "step_description": "Keep doing this until an AED is available or emergency workers arrive."
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 3,
+                    "scenario_name": "Seizure",
+                    "symptoms & causes": [
+                        "Temporary confusion.",
+                        "A staring spell.",
+                        "Jerking movements of the arms and legs that can't be controlled.",
+                        "Loss of consciousness or awareness.",
+                        "Cognitive or emotional changes. They may include fear, anxiety or a feeling that you've already lived this moment, known as deja vu."
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Loosen clothing around the person's neck."
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "Roll the person on their side to keep the airway open."
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "Move sharp objects, such as glassware or furniture, away from the person."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "Do not restrain or hold down the person."
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "If a seizure lasts longer than 5 minutes, call 911."
+                        },
+                        {
+                            "step_number": 6,
+                            "step_description": "IV (or oral medication in some people) medication such as lorazepam"
+                        },
+                        {
+                            "step_number": 7,
+                            "step_description": "Stay calm and remain with the person"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 4,
+                    "scenario_name": "Allergy",
+                    "symptoms & causes": [
+                        "Sneezing",
+                        "Itching of the nose, eyes or roof of the mouth",
+                        "Runny, stuffy nose",
+                        "Watery, red or swollen eyes (conjunctivitis)"
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Help the person lie on their back."
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "Raise their feet about 12 inches and cover them with a blanket."
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "Turn them on their side if they are vomiting or bleeding."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "Make sure their clothing is loose"
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "See if they have an epinephrine (adrenaline) auto-injector (EpiPen) and help them, if needed."
+                        },
+                        {
+                            "step_number": 6,
+                            "step_description": "Call 911 immediately."
+                        },
+                        {
+                            "step_number": 7,
+                            "step_description": "If the person you\u2019re with isn\u2019t breathing, coughing, or moving, you may need to perform CPR"
+                        },
+                        {
+                            "step_number": 8,
+                            "step_description": "Over-the-counter (OTC) antihistamines and decongestants may relieve minor symptoms of an allergic reaction."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 5,
+                    "scenario_name": "Hypothermia",
+                    "symptoms & causes": [
+                        "Shivering.",
+                        "Slurred speech or mumbling.",
+                        "Slow, shallow breathing.",
+                        "Weak pulse.",
+                        "Clumsiness or lack of coordination.",
+                        "Drowsiness or very low energy.",
+                        "Confusion or memory loss.",
+                        "Loss of consciousness.",
+                        "In infants, bright red, cold skin."
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Handle the person gently."
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "Don't massage or rub the person."
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "Shield the person from the cold and wind as much as possible."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "The person should be kept in a flat position if possible."
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "If the person is wearing wet clothing, remove it."
+                        },
+                        {
+                            "step_number": 6,
+                            "step_description": "If the person's breathing has stopped or appears dangerously low or shallow, begin CPR right away if you're trained."
+                        },
+                        {
+                            "step_number": 7,
+                            "step_description": "Use first-aid warm compresses, which are plastic fluid-filled bags that warm up when squeezed."
+                        },
+                        {
+                            "step_number": 8,
+                            "step_description": "Don't use hot water, a heating pad or a heating lamp to warm the person."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 6,
+                    "scenario_name": "Poisoning",
+                    "symptoms & causes": [
+                        "Burns or redness around the mouth and lips.",
+                        "Breath that smells like chemicals, such as gasoline or paint thinner.",
+                        "Vomiting.",
+                        "Difficulty breathing.",
+                        "Drowsiness.",
+                        "Confusion or other altered mental status."
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Call 911 or your local emergency number "
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "If it is Swallowed poison,Remove anything remaining in the person's mouth."
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "If the suspected poison is a household cleaner or other chemical, read the container's label and follow instructions for accidental poisoning."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "Remove any contaminated clothing using gloves. Rinse the skin for 15 to 20 minutes in a shower or with a hose."
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "If it is Poison in the eye, Gently flush the eye with cool or lukewarm water for 20 minutes or until help arrives"
+                        },
+                        {
+                            "step_number": 6,
+                            "step_description": "If it is inhaled poison, get the person into fresh air as soon as possible."
+                        },
+                        {
+                            "step_number": 7,
+                            "step_description": "If the person vomits, turn the person's head to the side to prevent choking."
+                        },
+                        {
+                            "step_number": 8,
+                            "step_description": "Begin CPR if the person shows no signs of life, such as moving, breathing or coughing."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 7,
+                    "scenario_name": "Chemical Burns",
+                    "symptoms & causes": [
+                        "1st-degree burn.This minor burn affects only the outer layer of the skin (epidermis). It may cause redness and pain.",
+                        "2nd-degree burn.This type of burn affects both the epidermis and the second layer of skin (dermis). It may cause swelling and red, white or splotchy skin. Blisters may develop, and pain can be severe. Deep second-degree burns can cause scarring.",
+                        "3rd-degree burn.This burn reaches to the fat layer beneath the skin. Burned areas may be black, brown or white. The skin may look leathery. Third-degree burns can destroy nerves, causing numbness."
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Call 911 or your local emergency number "
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "Protect the burned person from further harm."
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "Remove dry chemicals. Put on gloves and brush off any remaining material."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "Remove contaminated clothing or jewelry and rinse chemicals off for at least 20 minutes, in a shower if it's available."
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "Protect eyes from the chemicals."
+                        },
+                        {
+                            "step_number": 6,
+                            "step_description": "Loosely cover the area with gauze or a clean cloth."
+                        },
+                        {
+                            "step_number": 7,
+                            "step_description": "Rinse again if needed. If the area is still painful, rinse for several more minutes."
+                        },
+                        {
+                            "step_number": 8,
+                            "step_description": "For major burns, watch for signs of shock like clammy skin, weak pulse and shallow breathing."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenarios": [
+                {
+                    "scenario_id": 8,
+                    "scenario_name": "Diabetic Coma",
+                    "symptoms & causes": [
+                        "Increased thirst",
+                        "Frequent urination",
+                        "Blurred vision",
+                        "Tiredness or weakness",
+                        "Headache",
+                        "Nausea and vomiting",
+                        "Shortness of breath",
+                        "Stomach pain",
+                        "Fruity breath odor",
+                        "A very dry mouth"
+                    ],
+                    "detailed_steps": [
+                        {
+                            "step_number": 1,
+                            "step_description": "Help them to rest."
+                        },
+                        {
+                            "step_number": 2,
+                            "step_description": "Reassure the person. If they respond well, give them more sugary food"
+                        },
+                        {
+                            "step_number": 3,
+                            "step_decription": "Give them something sugary to eat or a non-diet drink."
+                        },
+                        {
+                            "step_number": 4,
+                            "step_decription": "If they respond well, give them more sugary food"
+                        },
+                        {
+                            "step_number": 5,
+                            "step_description": "If they do not respond well, contact emergency services"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "scenario_id": 9,
+            "scenario_name": "Choking",
+            "symptoms & causes": [
+                "One or both hands clutched to the throat.",
+                "A look of panic, shock or confusion.",
+                "Inability to talk.",
+                "Strained or noisy breathing.",
+                "Squeaky sounds when trying to breathe.",
+                "Cough, which may either be weak or forceful.",
+                "Skin, lips and nails that change color turning blue or gray.",
+                "Loss of consciousness."
+            ],
+            "detailed_steps": [
+                {
+                    "step_number": 1,
+                    "step_description": "Hold the infant facedown on your forearm, head lower than trunk. Give 5 back thumps with the heel of your hand."
+                },
+                {
+                    "step_number": 2,
+                    "step_description": "If not breathing, turn the infant faceup, head lower than trunk, and give 5 chest compressions with two fingers just below the nipple line."
+                },
+                {
+                    "step_number": 3,
+                    "step_description": "If it is a child and they can cough forcefully, let them continue coughing."
+                },
+                {
+                    "step_number": 4,
+                    "step_description": "If they can't cough, talk, or breathe, give 5 back blows: Stand/kneel behind, support the chest, and strike between the shoulder blades."
+                },
+                {
+                    "step_number": 5,
+                    "step_description": "If back blows don not work, give 5 abdominal thrusts: Stand/kneel behind, make a fist above the navel, grasp it with the other hand, and thrust inward and upward."
+                },
+                {
+                    "step_number": 6,
+                    "step_description": "Alternate between 5 back blows and 5 abdominal thrusts until the blockage is dislodged."
+                },
+                {
+                    "step_number": 7,
+                    "step_description": "Lay the person on their back, clear the airway if you see the object, and start CPR if needed. Use chest compressions to attempt to remove the object."
+                },
+                {
+                    "step_number": 8,
+                    "step_description": "Use chest thrusts instead of abdominal thrusts: Place hands at the base of the breastbone and press hard into the chest with a quick thrust."
+                },
+                {
+                    "step_number": 9,
+                    "step_description": "If alone and choking, call emergency services and perform abdominal thrusts on yourself: Use your fist above the navel and thrust inward and upward, using a hard surface if needed."
+                },
+                {
+                    "step_number": 10,
+                    "step_description": "If the person becomes unconscious and the airway is clear but they are not breathing, begin CPR with chest compressions and rescue breaths."
+                }
+            ]
+        },
+        {
+            "scenario_id": 10,
+            "scenario_name": "Bleeding",
+            "symptoms & causes": [
+                "Severe bleeding caused by gashes, cuts, tears and other injuries."
+            ],
+            "detailed_steps": [
+                {
+                    "step_number": 1,
+                    "step_description": "Before checking for the source of the wound, put on disposable gloves and other personal protective equipment if you have them."
+                },
+                {
+                    "step_number": 2,
+                    "step_description": "Remove any clothing or debris from the wound.Look for the source of the bleeding. There could be more than one injury. Remove any obvious debris but don't try to clean the wound."
+                },
+                {
+                    "step_number": 3,
+                    "step_description": "Stop the bleeding.Cover the wound with sterile gauze or a clean cloth. Press on it firmly with the palm of your hand until bleeding stops.Wrap the wound with a thick bandage or clean cloth and tape. Lift the wound above heart level if possible."
+                },
+                {
+                    "step_number": 4,
+                    "step_description": "Help the injured person lie down.If possible, place the person on a rug or blanket to prevent loss of body heat. Elevate the feet if you notice signs of shock, such as weakness, clammy skin or a rapid pulse. Calmly reassure the injured person."
+                },
+                {
+                    "step_number": 5,
+                    "step_description": "Add more bandages as needed.If the blood seeps through the bandage, add more gauze or cloth on top of the existing bandage. Then keep pressing firmly on the area."
+                },
+                {
+                    "step_number": 6,
+                    "step_description": "Tourniquets:A tourniquet is effective in controlling life-threatening bleeding from a limb. If needed, apply a commercially made tourniquet if it's available and you're trained in how to use it.When emergency help arrives, tell them how long the tourniquet has been in place."
+                },
+                {
+                    "step_number": 7,
+                    "step_description": "Keep the person still.If you're waiting for emergency help to arrive, try to keep the injured person from moving.If you haven't called for emergency help, get the injured person to an emergency room as soon as possible."
+                },
+                {
+                    "step_number": 8,
+                    "step_description": "Wash your hands.After helping the injured person, wash your hands, even if it doesn't look like any blood got on your hands."
+                }
+            ]
+        },
+        {
+            "scenario_id": 11,
+            "scenario_name": "Fainting",
+            "symptoms & causes": [
+                "sweating, weakness,dizziness,light-headedness",
+                "shortness of breath",
+                "vision changes,blurredor faded vision, seeing spots or lights",
+                "nausea, vomiting,stomach-ache",
+                "pale face, cool and moist skin",
+                "numbness, tingling",
+                "anxiety,restlessness"
+            ],
+            "detailed_steps": [
+                {
+                    "step_number": 1,
+                    "step_description": "Check for danger, ensure that everyone in the area is safe."
+                },
+                {
+                    "step_number": 2,
+                    "step_description": "Do not put yourself or others at risk."
+                },
+                {
+                    "step_number": 3,
+                    "step_description": "Look for a response — loudly ask their name, squeeze their shoulder."
+                },
+                {
+                    "step_number": 4,
+                    "step_description": "If there is no response, call emergency services"
+                },
+                {
+                    "step_number": 5,
+                    "step_description": "Check their mouth and throat are not blocked with food, blood, vomit, loose teeth or a foreign object."
+                },
+                {
+                    "step_number": 6,
+                    "step_description": "Look, listen and feel for 10 seconds. Place a hand on their stomach, your ear to their mouth and look to see if their chest is rising and falling."
+                },
+                {
+                    "step_number": 7,
+                    "step_description": "If they are not breathing normally, start CPR "
+                },
+                {
+                    "step_number": 8,
+                    "step_description": "Attach an Automated External Defibrillator (AED) to the patient if one is available or someone can bring it."
+                },
+                {
+                    "step_number": 9,
+                    "step_description": "Do not get it if you need to leave the person alone."
+                },
+                {
+                    "step_number": 10,
+                    "step_description": "Provide fresh air — open a window if possible"
+                }
+
+            ]
+        }
+    ]
+}
